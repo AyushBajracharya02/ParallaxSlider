@@ -1,0 +1,11 @@
+.image{
+    border-radius: 0.7em;
+    overflow: hidden;
+}
+
+img{
+    height: 100%;
+    width: 50vmin;
+    object-fit: cover;
+    user-select: none;
+}

@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(0,-50%);
+  height: 70vmin;
+  gap: 1em;
+}
